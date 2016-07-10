@@ -12,3 +12,17 @@ Send a GET request to prices:
 Get back an image like this:
 
 ![yo-yo price](https://raw.githubusercontent.com/santiagogil/prices/master/yo-yo.png)
+
+If you prefer standard badges, give prices a style and get back a shields.io image:
+
+`https://prices.ovnion.com/yo-yo.svg?style=flat`
+
+![yo-yo price](https://raw.githubusercontent.com/santiagogil/prices/master/flat.png)
+
+`https://prices.ovnion.com/yo-yo.svg?style=flat-square`
+
+![yo-yo price](https://raw.githubusercontent.com/santiagogil/prices/master/flat-square.png)
+
+`https://prices.ovnion.com/yo-yo.svg?style=plastic`
+
+![yo-yo price](https://raw.githubusercontent.com/santiagogil/prices/master/plastic.png)
