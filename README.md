@@ -13,7 +13,7 @@ Get back an image like this:
 
 ![yo-yo price](https://raw.githubusercontent.com/santiagogil/prices/master/yo-yo.png)
 
-If you prefer standard badges, give prices a style and get back a shields.io image:
+If you prefer standard badges, give prices a style and get back a [shields.io](https://shields.io) image:
 
 `https://prices.ovnion.com/yo-yo.svg?style=flat`
 
