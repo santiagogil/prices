@@ -1,3 +1,3 @@
 # Prices
 How much does a module weight.
-![Image of Yaktocat](https://github.com/santiagogil/prices/prices.png)
+![Prices logo](https://raw.githubusercontent.com/santiagogil/prices/master/prices.png)
